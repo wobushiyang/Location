@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">线路跟踪案例</string>
+    <string name="my_location">我的位置</string>
+    <string name="start_track">开始跟踪</string>
+    <string name="end_track">结束跟踪</string>
+    <string name="track_back">跟踪回放</string>
+</resources>
